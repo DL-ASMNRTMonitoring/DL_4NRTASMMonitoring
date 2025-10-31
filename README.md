@@ -4,8 +4,9 @@
 # Description
 •	Artisanal and small-scale mining (ASM) is monitored in near real-time using the U-Net model applied to Sentinel-1 imagery.
 
-•	Integrating temporal information, textural, and terrain data significantly improves the performance of the U-Net model.
+•	Integrating temporal information derived from CUSUM algorithm, textural, and terrain data significantly improves the performance of the U-Net model.
 
 •	This novel approach has the potential for monitoring ASM globally.
+
 
 
